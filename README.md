@@ -5,7 +5,7 @@ Salesman and Web developer
 --------------------------
 
 * 🌍  I'm based in Detmold
-* 🖥️  See my portfolio at [My Projects](http://Zenonik.de/projects )
+* 🖥️  See my [portfolio](http://Zenonik.de/projects)!
 
 <a href="https://www.twitch.tv/zenonik_tv" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/zenonik_tv?logo=twitchsx&style=for-the-badge&color=84cc16&labelColor=1c1917&label=TWITCH+STATUS" /></a>
