@@ -23,6 +23,6 @@ Web developer and Salesman
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/zenonik"><img src="https://github-readme-stats.vercel.app/api?username=zenonik&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&show_icons=true" alt="zenonik's GitHub stats" /></a>
+<a href="http://www.github.com/zenonik"><img src="https://github-readme-stats.vercel.app/api?username=zenonik&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=0d1117&hide_border=true&show_icons=true" alt="zenonik's GitHub stats" /></a>
 
-<a href="https://github.com/zenonik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenonik&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/zenonik" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenonik&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=6366f1&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
